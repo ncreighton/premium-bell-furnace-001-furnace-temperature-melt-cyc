@@ -1,0 +1,2 @@
+# premium-bell-furnace-001-furnace-temperature-melt-cyc
+The heritage-bell-founding tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Furnace Temperature &amp; Melt Cycle Log — fully configured and ready to use - Pre-built databas
